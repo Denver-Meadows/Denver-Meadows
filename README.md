@@ -1,4 +1,7 @@
 ### <div align="center">I'm Denver, a freelance web developer 👨‍💻  who loves creating web applications primarily with the MERN stack.</div>  
+<br/>
+<br/>
+<br/>
   
 
 - 🔭   I’m currently seeking new and exciting opportunities!  Please reach out with any new or existing challenges we could solve together.  
