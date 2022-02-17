@@ -1,4 +1,3 @@
-[![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denver-Meadows)](https://github.com/Denver-Meadows/github-readme-stats)
 
 - 👋 Hi, I’m @Denver-Meadows
 - 👀 I’m interested in ...
